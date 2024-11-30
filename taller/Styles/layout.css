@@ -1,0 +1,13 @@
+/* styles/layout.css */
+.container {
+    @apply mx-auto px-6 py-4;
+  }
+  
+  .header {
+    @apply bg-primary text-white p-6 shadow-lg;
+  }
+  
+  .footer {
+    @apply bg-secondary text-white text-center py-4;
+  }
+  
